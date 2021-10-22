@@ -3,14 +3,42 @@
     margin:3rem;
     padding: 1rem;
     text-align: center;
+    border-radius: 8px;
+    background-image: linear-gradient(315deg, orange, white, green);
+ 
+    
+  }
+  .hero-2{
+    margin:3rem;
+    padding: 1rem;
+    background-image: linear-gradient(315deg, orange, white, green);
+    text-align: center;
+    border-radius: 8px;
+
   }
   
   .hero-1 h3{
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     font-family: 'Berkshire Swash', cursive;
+    text-align:left;
+    padding: 0.5rem;
+    border-left: 7px solid black;
+    border-radius: 8px;
+
+  
     
   }
-  .hero-1 p{
+  .hero-2 h3{
+    font-size: 2.5rem;
+    font-family: 'Berkshire Swash', cursive;
+    text-align:left;
+    padding: 0.5rem;
+    border-left: 7px solid black;
+    border-radius: 8px;
+    
+
+  }
+  .hero-1, .hero-2 p{
     text-align: justify;
     font-size: 1.2rem;
     word-wrap: break-word;
@@ -19,5 +47,29 @@
 
   .hero-1 img{
       float: right;
+      margin: 2rem;
+      max-width: 20%;
+
   }
 
+  .hero-2 img{
+    text-align: center;
+    width: 40%;
+    animation: floating 5s linear infinite;
+  }
+  @keyframes floating {
+    0% {
+      transform: translateY(0px);
+      opacity: 1;
+    }
+    50% {
+      transform: translateY(-40px);
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(0px);
+      opacity: 1;
+    }
+  }
+
+ 
