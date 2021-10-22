@@ -1,41 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Kumar+One&family=Merriweather+Sans&family=Poppins&family=Berkshire+Swash&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Kumar+One&family=Merriweather+Sans&family=Poppins&family=Berkshire+Swash&display=swap");
 
-body{
-  margin:0;
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, orange, white, green);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
   /* background-image: linear-gradient(to right, orange, white, green);
   background-repeat: no-repeat;
   background-size: cover; */
-
 }
 
-.header{
+.header {
   margin: 2rem;
-  
 }
 
-.header h2{
-  font-size:3rem;
-  font-family: 'Kumar One', cursive;
+.header h2 {
+  font-size: 3rem;
+  font-family: "Kumar One", cursive;
   background-color: black;
   background-size: 100%;
   background-repeat: repeat;
   text-align: center;
 
- 
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; 
+  -webkit-text-fill-color: transparent;
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
-  
-
-
 }
 
-.header span{
-  font-size:1.5rem;
-  font-family: 'Merriweather Sans', sans-serif;
+.header span {
+  font-size: 1.5rem;
+  font-family: "Merriweather Sans", sans-serif;
 }
 
 .cardblock {
@@ -46,28 +48,26 @@ body{
   margin: 0 auto;
 }
 
-.card_category{
-      padding: 1rem;
-    display: flex;
-    align-items: center;
-    margin: 1rem;
-    background-color: white;
-    border-radius: 8px;
-    transition: 0.3s all ease-in-out;
-    font-weight: bold;
-    color: black;
-    font-size: 1.2rem;
-    text-align: center;
-    font-family: Poppins;
-    text-decoration: none;
-    flex-direction: column;
-  
+.card_category {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  background-color: white;
+  border-radius: 8px;
+  transition: 0.3s all ease-in-out;
+  font-weight: bold;
+  color: black;
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: Poppins;
+  text-decoration: none;
+  flex-direction: column;
 }
 
-.card_category img{
+.card_category img {
   width: 100%;
   height: 150px;
   object-fit: cover;
   margin-bottom: 1rem;
 }
-

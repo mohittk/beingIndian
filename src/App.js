@@ -17,6 +17,7 @@ function App() {
   };
   return (
     <>
+    
       <div className="header">
         <h2>
           {" "}
@@ -78,6 +79,7 @@ function App() {
         <Route exact path="/festivals" component={Festivals} />
         <Route exact path="/food" component={Food} />
       </Router>
+      
     </>
   );
 }
