@@ -29,13 +29,22 @@ function Lang() {
             status of national language.
           </p>
         </div>
+        <div className="lang-2">
+          <div className="lang-1">
+            <h3>Languages in India </h3>
 
-   
-        
-        
-          
+          </div>
+          <div className="lang-1">
+            <h3>Languages in India </h3>
 
-        
+          </div>
+
+        </div>
+
+
+
+
+
 
       </div>
     </>
