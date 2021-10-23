@@ -5,6 +5,7 @@ import Home from "./components/home.js";
 import Festivals from "./components/festivals.js";
 import Tilt from "react-parallax-tilt";
 import Food from "./components/food";
+import Clothing from "./components/clothing";
 
 function App() {
   const scrollToBottom = () => {
@@ -77,6 +78,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/festivals" component={Festivals} />
         <Route exact path="/food" component={Food} />
+        <Route exact path="/clothing" component={Clothing} />
       </Router>
     </>
   );

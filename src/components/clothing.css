@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-transform: capitalize;
+}
+
+.card{
+    height: 380px;
+    width: 290px;
+    margin: 20px;
+    /* box-shadow: 0 3px 5px #000; */
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    background-color: rgba(27, 27, 27, 0.212);
+}
+.card .bg-image img{
+    width: 100%;
+    height: 330px;
+    object-fit: cover;
+    /* clip-path: polygon(0 0,100% 0%,100% 70%,45% 100%,0 70%); */
+}
+.card .info h3{
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 0;
+    transform: translateY(-50%);
+}
