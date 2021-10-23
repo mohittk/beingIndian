@@ -5,6 +5,8 @@ import Home from "./components/home.js";
 import Festivals from "./components/festivals.js";
 import Tilt from "react-parallax-tilt";
 import Food from "./components/food";
+import Lang from "./components/lang";
+import Dance from './components/dance';
 
 function App() {
   const scrollToBottom = () => {
@@ -43,7 +45,7 @@ function App() {
           </Tilt>
           <Tilt>
             <Link to="/food" class="card_category" onClick={scrollToBottom}>
-              <img src="../images/food.png" /> Food varities{" "}
+              <img src="../images/food.png" /> Food varieties{" "}
             </Link>
           </Tilt>
           <Tilt>
@@ -77,7 +79,9 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/festivals" component={Festivals} />
         <Route exact path="/food" component={Food} />
-      </Router>
+        <Route exact path="/languages" component={Lang}/>     
+        <Route exact path="/dance" component={Dance}/>    
+        </Router>
     </>
   );
 }

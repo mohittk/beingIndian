@@ -6,7 +6,7 @@ function Food() {
     <>
       <div className="content">
         <div className="food-1">
-          <h3>Food diversity of India</h3>
+          <h3>Food varieties of India</h3>
           <p>
             {" "}
             Indian cuisine consists of a variety of regional and traditional
