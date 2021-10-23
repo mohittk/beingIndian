@@ -5,9 +5,8 @@ import Home from "./components/home.js";
 import Festivals from "./components/festivals.js";
 import Tilt from "react-parallax-tilt";
 import Food from "./components/food";
-
 import Clothing from "./components/clothing";
-
+import Relig from "./components/relig";
 import Lang from "./components/lang";
 import Dance from "./components/dance";
 
@@ -87,6 +86,7 @@ function App() {
 
         <Route exact path="/languages" component={Lang} />
         <Route exact path="/dance" component={Dance} />
+        <Route exact path="/religion" component={Relig} />
       </Router>
     </>
   );
