@@ -54,10 +54,10 @@ body{
     background-color: white;
     border-radius: 8px;
     transition: 0.3s all ease-in-out;
-    font-weight: bold;
     color: black;
     font-size: 1.2rem;
     text-align: center;
+    font-weight: 900;
     font-family: Poppins;
     text-decoration: none;
     flex-direction: column;
