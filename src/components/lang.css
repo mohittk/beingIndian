@@ -33,5 +33,47 @@
     font-family: "Merriweather Sans", sans-serif;
   }
 
+  .lang-2{
+    margin: 3rem;
+    padding: 1rem;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+  
+    /* background-image: linear-gradient(315deg, #ff5f6d, #ffc371); */
+    background: rgba(248, 248, 248, 0.466);
+    /* border-radius: 15px; */
+    /* border-radius: 5px 50px 5px; */
+  
+    /* backdrop-filter: blur(500px); */
+    backdrop-filter: blur(55rem);
+    -webkit-backdrop-filter: blur(55rem);
+  
+    border-radius: 8px;
+
+  }
+
+  .lang-card{
+    margin: 3rem;
+    padding: 1rem;
+    text-align: center;
+    width: 40%;
+    display: flex;
+    /* background-image: linear-gradient(315deg, #ff5f6d, #ffc371); */
+    background: rgba(248, 248, 248, 0.466);
+    /* border-radius: 15px; */
+    /* border-radius: 5px 50px 5px; */
+  
+    /* backdrop-filter: blur(500px); */
+    backdrop-filter: blur(55rem);
+    -webkit-backdrop-filter: blur(55rem);
+  
+    border-radius: 8px;
+
+
+  }
+
   
 

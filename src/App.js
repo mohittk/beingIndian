@@ -9,8 +9,7 @@ import Food from "./components/food";
 import Clothing from "./components/clothing";
 
 import Lang from "./components/lang";
-import Dance from './components/dance';
-
+import Dance from "./components/dance";
 
 function App() {
   const scrollToBottom = () => {
@@ -89,7 +88,6 @@ function App() {
         <Route exact path="/languages" component={Lang} />
         <Route exact path="/dance" component={Dance} />
       </Router>
-
     </>
   );
 }
