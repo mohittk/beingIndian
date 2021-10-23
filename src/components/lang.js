@@ -30,22 +30,50 @@ function Lang() {
           </p>
         </div>
         <div className="lang-2">
-          <div className="lang-1">
-            <h3>Languages in India </h3>
-
+          <div className="lang-card">
+            <h2>Name of State </h2>
+            <h3>Jammu and Kashmir </h3>
+            <h3>Himachal Pradesh </h3>
+            <h3>Punjab</h3>
+            <h3>Uttrakhand </h3>
+            <h3>Haryana </h3>
+            <h3>Delhi </h3>
+            <h3>Uttar Pradesh </h3>
+            <h3>Rajasthan </h3>
+            <h3>Madhya Pradesh </h3>
+            <h3>Chhattisgarh </h3>
+            <h3>Bihar </h3>
+            <h3>Jharkhand </h3>
+            <h3>West Bengal </h3>
+            <h3>Sikkim </h3>
+            <h3>Assam </h3>
+            <h3>Arunachal Pradesh </h3>
+            <h3>Nagaland </h3>
+            <h3>Mizoram </h3>
+            <h3>Tripura</h3>
+            <h3>Meghalaya </h3>
+            <h3>Manipur </h3>
+            <h3>Odisha </h3>
+            <h3>Maharashtra </h3>
+            <h3>Gujarat</h3>
+            <h3>Daman and Diu </h3>
+            <h3>Dadra and Nagar Haveli </h3>
+            <h3>Goa</h3>
+            <h3>Karnataka </h3>
+            <h3>Andhra Pradesh </h3>
+            <h3>Kerala </h3>
+            <h3>Lakshadweep Islands </h3>
+            <h3>Tamil Nadu </h3>
+            <h3>Puducherry </h3>
+            <h3>Andaman and Nicobar Islands </h3>
           </div>
-          <div className="lang-1">
-            <h3>Languages in India </h3>
-
+          <div className="lang-card">
+            <h2>Language spoken </h2>
           </div>
-
+          <div className="lang-card">
+            <h2>Other languages spoken </h2>
+          </div>
         </div>
-
-
-
-
-
-
       </div>
     </>
   );

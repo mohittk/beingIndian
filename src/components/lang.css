@@ -26,6 +26,14 @@
   border-left: 7px solid black;
   border-right: 7px solid black;
 }
+.lang-card h2{
+  font-size: 1.7rem;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: rgb(124, 2, 2);
+  
+  
+}
 .lang-1 p {
   text-align: justify;
   font-size: 1.2rem;
@@ -33,7 +41,11 @@
   font-family: "Merriweather Sans", sans-serif;
 }
 
+.lang-card h3{
+ font-family: 'Roboto', sans-serif;;
+}
 .lang-2 {
+
   
   text-align: center;
   display: flex;
@@ -47,14 +59,14 @@
   border-radius: 8px; */
 }
 
-.lang-card {
+.lang-card{
   margin: 3rem;
   padding: 1rem;
+  width: 20%;
   text-align: center;
-  width: 40%;
-  display: flex;
+
   /* background-image: linear-gradient(315deg, #ff5f6d, #ffc371); */
-  background: rgba(248, 248, 248, 0.466);
+  background: rgba(255, 124, 124, 0.432);
   /* border-radius: 15px; */
   /* border-radius: 5px 50px 5px; */
 
@@ -64,3 +76,5 @@
 
   border-radius: 8px;
 }
+
+
