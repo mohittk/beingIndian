@@ -51,7 +51,7 @@ function Relig() {
         </div>
         <div className="card-rel">
           <div className="bg-image">
-            <img src="https://lh3.googleusercontent.com/proxy/vuAQdNbAd2DfO6gEO2jSo9xh4hPbYBrOv4crb44hCoJJOs3dVxoHl_S9VDBbXvypKUMgA_PanXhGNXlpaR4vsT38DUsCab9BxRJeYnAjhplLEU7EUZSQI3ELJ7he0hA_cBxEn9z0sWWFGm-8-_ESR-dEYgvz-KlYd5Og" alt="bla" />
+            <img src="https://png.pngitem.com/pimgs/s/187-1875593_muslim-symbol-transparent-background-hd-png-download.png" alt="bla" />
           </div>
           <div className="info">
             <h3>Islamism</h3>
