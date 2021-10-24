@@ -13,7 +13,17 @@
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
+    transition: all 0.2s ease-in-out;
     background-color: rgba(27, 27, 27, 0.212);
+}
+
+.container-rel:hover > .card-rel:not(:hover){
+    filter: blur(4px);
+}
+
+.card-rel:hover{
+    transform: scale(1.1);
+    
 }
 .card-rel .bg-image img{
     width: 100%;

@@ -69,9 +69,80 @@ function Lang() {
           </div>
           <div className="lang-card">
             <h2>Language spoken </h2>
+            <h3> Kashmiri </h3>
+            <h3> Hindi </h3>
+            <h3> Punjab </h3>
+            <h3> Hindi</h3>
+            <h3> Hindi</h3>
+            <h3> Hindi </h3>
+            <h3> Hindi </h3>
+            <h3> Hindi </h3>
+            <h3> Hindi </h3>
+            <h3> Hindi </h3>
+            <h3> Hindi </h3>
+            <h3> Hindi </h3>
+            <h3> Bengali </h3>
+            <h3> Nepali </h3>
+            <h3> Assamese </h3>
+            <h3> Bengali </h3>
+            <h3> Bengali </h3>
+            <h3> Bengali </h3>
+            <h3> Bengali </h3>
+            <h3> Bengali </h3>
+            <h3> Manipuri </h3>
+            <h3> Oriya</h3>
+            <h3> Marathi </h3>
+            <h3> Gujarati </h3>
+            <h3> Gujarati </h3>
+            <h3> Gujarati </h3>
+            <h3> Konkani </h3>
+            <h3> Kannada </h3>
+            <h3> Telugu </h3>
+            <h3> Malayalam </h3>
+            <h3> Malayalam </h3>
+            <h3> Tamil </h3>
+            <h3> Tamil </h3>
+            <h3> Bengali </h3>
           </div>
           <div className="lang-card">
             <h2>Other languages spoken </h2>
+            <h3> Dogri and Hindi </h3>
+            <h3> 	Punjabi and Nepali </h3>
+            <h3> Hindi </h3>
+            <h3>Urdu, Punjabi and Nepali </h3>
+            <h3> Punjabi and Urdu </h3>
+            <h3> Punjabi, Urdu and Bengali </h3>
+            <h3> 	Urdu </h3>
+            <h3>	Punjabi and Urdu  </h3>
+            <h3> Marathi and Urdu </h3>
+            <h3> Bengali and Oriya </h3>
+            <h3> Maithili and Urdu </h3>
+            <h3> Santali, Bengali and Urdu </h3>
+            <h3> Hindi, Santali, Urdu, Nepali </h3>
+            <h3> 	Hindi, Bengali </h3>
+            <h3> 	Bengali, Hindi, Nepali</h3>
+            <h3> Nepali, Hindi and Assamese </h3>
+        
+            <h3> Hindi and Nepali </h3>
+            <h3> Hindi and Nepali </h3>
+
+            <h3> Hindi</h3>
+            <h3> Hindi and Nepali </h3>
+            <h3> Nepali, Hindi and Bengali </h3>
+            <h3> Hindi, Telegu and Santali </h3>
+            <h3> 	Hindi, Urdu and Gujarati </h3>
+            <h3> 	Hindi, Sindhi, Marathi ,Urdu </h3>
+            <h3> Hindi and Marathi </h3>
+            <h3> Hindi, Konkani and Marathi </h3>
+            <h3> 	Marathi, Hindi and Kannada</h3>
+            <h3> Urdu, Telugu, Marathi ,Tamil</h3>
+            <h3> 	Urdu, Hindi and Tamil </h3>
+            <h3> - </h3>
+            <h3>- </h3>
+            <h3> 	Telugu, Kannada and Urdu </h3>
+            <h3> 	Telugu, Kannada and Urdu </h3>
+            <h3> Tamil,Telugu, Malayalam</h3>
+      
           </div>
         </div>
       </div>
