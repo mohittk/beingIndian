@@ -13,7 +13,7 @@ import Dance from "./components/dance";
 function App() {
   const scrollToBottom = () => {
     window.scrollTo({
-      top: document.documentElement.scrollHeight,
+      top: document.documentElement.scrollTop=950,
       behavior: "smooth",
       /* you can also use 'auto' behaviour
       in place of 'smooth' */
